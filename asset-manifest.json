@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Webcode2-frontend/static/css/main.65013ead.chunk.css",
+    "main.js": "/Webcode2-frontend/static/js/main.85f0b677.chunk.js",
+    "main.js.map": "/Webcode2-frontend/static/js/main.85f0b677.chunk.js.map",
+    "runtime-main.js": "/Webcode2-frontend/static/js/runtime-main.e043ab1a.js",
+    "runtime-main.js.map": "/Webcode2-frontend/static/js/runtime-main.e043ab1a.js.map",
+    "static/js/2.889da77e.chunk.js": "/Webcode2-frontend/static/js/2.889da77e.chunk.js",
+    "static/js/2.889da77e.chunk.js.map": "/Webcode2-frontend/static/js/2.889da77e.chunk.js.map",
+    "index.html": "/Webcode2-frontend/index.html",
+    "precache-manifest.085baac287074da66c75b2a2bfd83cf6.js": "/Webcode2-frontend/precache-manifest.085baac287074da66c75b2a2bfd83cf6.js",
+    "service-worker.js": "/Webcode2-frontend/service-worker.js",
+    "static/css/main.65013ead.chunk.css.map": "/Webcode2-frontend/static/css/main.65013ead.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e043ab1a.js",
+    "static/js/2.889da77e.chunk.js",
+    "static/css/main.65013ead.chunk.css",
+    "static/js/main.85f0b677.chunk.js"
+  ]
+}
